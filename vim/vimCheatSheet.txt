@@ -1,0 +1,13 @@
+### MOVEMENT ###
+ - h=left | j=down | k=up | l=right
+ - w=jump to right of next word | b=jump to left of next word
+ - ^ beginning of line | $=last character of line
+ - gg=first line | G=last line | nG=(n=lineNumber) Go to line
+ - ctrl+d= down 1/2 page | ctrl+u= up 1/2 page
+ - ctrl+b= back full page | ctrl+f=foward full page
+
+
+### MANIPULATION ###
+
+
+
